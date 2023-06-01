@@ -7,7 +7,7 @@ project(
     LANGUAGES CXX
 )
 set(
-    TARGET_NAME "executable"
+    TARGET_NAME "main"
 )
 add_executable(
     ${TARGET_NAME}
